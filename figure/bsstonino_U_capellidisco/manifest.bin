@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_capellidisco" version="0.1">
+<assets>
+<asset name="h_lay_hr_87659_2_0" mimeType="image/png">
+<param key="offset" value="30,50"/>
+</asset>
+<asset name="h_lay_hrb_87659_2_0" mimeType="image/png">
+<param key="offset" value="30,50"/>
+</asset>
+<asset name="h_std_hr_87659_0_0" mimeType="image/png">
+<param key="offset" value="-15,82"/>
+</asset>
+<asset name="h_std_hr_87659_1_0" mimeType="image/png">
+<param key="offset" value="-14,85"/>
+</asset>
+<asset name="h_std_hr_87659_2_0" mimeType="image/png">
+<param key="offset" value="-12,82"/>
+</asset>
+<asset name="h_std_hr_87659_3_0" mimeType="image/png">
+<param key="offset" value="-20,82"/>
+</asset>
+<asset name="h_std_hr_87659_7_0" mimeType="image/png">
+<param key="offset" value="-20,79"/>
+</asset>
+<asset name="h_std_hrb_87659_0_0" mimeType="image/png">
+<param key="offset" value="-15,82"/>
+</asset>
+<asset name="h_std_hrb_87659_1_0" mimeType="image/png">
+<param key="offset" value="-14,85"/>
+</asset>
+<asset name="h_std_hrb_87659_2_0" mimeType="image/png">
+<param key="offset" value="-12,82"/>
+</asset>
+<asset name="h_std_hrb_87659_3_0" mimeType="image/png">
+<param key="offset" value="-20,82"/>
+</asset>
+<asset name="h_std_hrb_87659_7_0" mimeType="image/png">
+<param key="offset" value="-20,79"/>
+</asset>
+</assets>
+</library>
+</manifest>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_cappellotexano" version="0.1">
+<assets>
+<asset name="h_lay_ha_76767688_2_0" mimeType="image/png">
+<param key="offset" value="27,43"/>
+</asset>
+<asset name="h_std_ha_76767688_0_0" mimeType="image/png">
+<param key="offset" value="-6,87"/>
+</asset>
+<asset name="h_std_ha_76767688_1_0" mimeType="image/png">
+<param key="offset" value="-2,91"/>
+</asset>
+<asset name="h_std_ha_76767688_2_0" mimeType="image/png">
+<param key="offset" value="-7,88"/>
+</asset>
+<asset name="h_std_ha_76767688_3_0" mimeType="image/png">
+<param key="offset" value="-4,87"/>
+</asset>
+<asset name="h_std_ha_76767688_7_0" mimeType="image/png">
+<param key="offset" value="-4,84"/>
+</asset>
+<asset name="h_lay_ha_76767689_2_0" mimeType="image/png">
+<param key="offset" value="19,42"/>
+</asset>
+<asset name="h_std_ha_76767689_1_0" mimeType="image/png">
+<param key="offset" value="-41,88"/>
+</asset>
+<asset name="h_std_ha_76767689_2_0" mimeType="image/png">
+<param key="offset" value="-23,82"/>
+</asset>
+<asset name="h_std_ha_76767689_3_0" mimeType="image/png">
+<param key="offset" value="-19,81"/>
+</asset>
+</assets>
+</library>
+</manifest>

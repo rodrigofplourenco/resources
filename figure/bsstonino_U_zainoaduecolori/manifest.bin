@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_zainoaduecolori" version="0.1">
+<assets>
+<asset name="h_lay_ca_11211110_2_0" mimeType="image/png">
+<param key="offset" value="4,23"/>
+</asset>
+<asset name="h_std_ca_11211110_0_0" mimeType="image/png">
+<param key="offset" value="-13,50"/>
+</asset>
+<asset name="h_std_ca_11211110_1_0" mimeType="image/png">
+<param key="offset" value="-13,48"/>
+</asset>
+<asset name="h_std_ca_11211110_2_0" mimeType="image/png">
+<param key="offset" value="-12,51"/>
+</asset>
+<asset name="h_std_ca_11211110_3_0" mimeType="image/png">
+<param key="offset" value="-23,49"/>
+</asset>
+<asset name="h_std_ca_11211110_7_0" mimeType="image/png">
+<param key="offset" value="-22,46"/>
+</asset>
+<asset name="h_lay_ca_11211111_2_0" mimeType="image/png">
+<param key="offset" value="0,0"/>
+</asset>
+<asset name="h_std_ca_11211111_0_0" mimeType="image/png">
+<param key="offset" value="-13,50"/>
+</asset>
+<asset name="h_std_ca_11211111_1_0" mimeType="image/png">
+<param key="offset" value="-13,48"/>
+</asset>
+<asset name="h_std_ca_11211111_2_0" mimeType="image/png">
+<param key="offset" value="-12,51"/>
+</asset>
+<asset name="h_std_ca_11211111_7_0" mimeType="image/png">
+<param key="offset" value="-22,46"/>
+</asset>
+</assets>
+</library>
+</manifest>

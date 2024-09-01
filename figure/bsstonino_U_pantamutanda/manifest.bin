@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright by Tonino - Base images by Habbo - Other images by Oswald. by BSS Hotel Italia-->
+<manifest>
+<library name="bsstonino_U_pantamutanda" version="0.1">
+<assets>
+<asset name="h_lay_lg_7474747_2_0" mimeType="image/png"><param key="offset" value="-19,13"/></asset>
+<asset name="h_sit_lg_7474747_0_0" mimeType="image/png"><param key="offset" value="-21,32"/></asset>
+<asset name="h_sit_lg_7474747_2_0" mimeType="image/png"><param key="offset" value="-26,26"/></asset>
+<asset name="h_std_lg_7474747_0_0" mimeType="image/png"><param key="offset" value="-19,24"/></asset>
+<asset name="h_std_lg_7474747_1_0" mimeType="image/png"><param key="offset" value="-23,21"/></asset>
+<asset name="h_std_lg_7474747_2_0" mimeType="image/png"><param key="offset" value="-23,24"/></asset>
+<asset name="h_std_lg_7474747_3_0" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_std_lg_7474747_7_0" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474747_0_0" mimeType="image/png"><param key="offset" value="-19,25"/></asset>
+<asset name="h_wlk_lg_7474747_0_1" mimeType="image/png"><param key="offset" value="-16,25"/></asset>
+<asset name="h_wlk_lg_7474747_0_2" mimeType="image/png"><param key="offset" value="-19,25"/></asset>
+<asset name="h_wlk_lg_7474747_0_3" mimeType="image/png"><param key="offset" value="-19,25"/></asset>
+<asset name="h_wlk_lg_7474747_1_0" mimeType="image/png"><param key="offset" value="-23,21"/></asset>
+<asset name="h_wlk_lg_7474747_1_1" mimeType="image/png"><param key="offset" value="-16,21"/></asset>
+<asset name="h_wlk_lg_7474747_1_2" mimeType="image/png"><param key="offset" value="-23,21"/></asset>
+<asset name="h_wlk_lg_7474747_1_3" mimeType="image/png"><param key="offset" value="-17,21"/></asset>
+<asset name="h_wlk_lg_7474747_2_0" mimeType="image/png"><param key="offset" value="-23,25"/></asset>
+<asset name="h_wlk_lg_7474747_2_1" mimeType="image/png"><param key="offset" value="-23,25"/></asset>
+<asset name="h_wlk_lg_7474747_2_2" mimeType="image/png"><param key="offset" value="-23,25"/></asset>
+<asset name="h_wlk_lg_7474747_2_3" mimeType="image/png"><param key="offset" value="-19,25"/></asset>
+<asset name="h_wlk_lg_7474747_3_0" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474747_3_1" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474747_3_2" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474747_3_3" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474747_7_0" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474747_7_1" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474747_7_2" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474747_7_3" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_lay_lg_7474748_2_0" mimeType="image/png"><param key="offset" value="-19,13"/></asset>
+<asset name="h_sit_lg_7474748_0_0" mimeType="image/png"><param key="offset" value="-21,32"/></asset>
+<asset name="h_sit_lg_7474748_2_0" mimeType="image/png"><param key="offset" value="-25,27"/></asset>
+<asset name="h_std_lg_7474748_0_0" mimeType="image/png"><param key="offset" value="-19,26"/></asset>
+<asset name="h_std_lg_7474748_1_0" mimeType="image/png"><param key="offset" value="-24,23"/></asset>
+<asset name="h_std_lg_7474748_2_0" mimeType="image/png"><param key="offset" value="-23,24"/></asset>
+<asset name="h_std_lg_7474748_3_0" mimeType="image/png"><param key="offset" value="-22,23"/></asset>
+<asset name="h_std_lg_7474748_7_0" mimeType="image/png"><param key="offset" value="-22,21"/></asset>
+<asset name="h_wlk_lg_7474748_0_0" mimeType="image/png"><param key="offset" value="-19,27"/></asset>
+<asset name="h_wlk_lg_7474748_0_1" mimeType="image/png"><param key="offset" value="-16,27"/></asset>
+<asset name="h_wlk_lg_7474748_0_2" mimeType="image/png"><param key="offset" value="-19,27"/></asset>
+<asset name="h_wlk_lg_7474748_0_3" mimeType="image/png"><param key="offset" value="-19,27"/></asset>
+<asset name="h_wlk_lg_7474748_1_0" mimeType="image/png"><param key="offset" value="-24,23"/></asset>
+<asset name="h_wlk_lg_7474748_1_1" mimeType="image/png"><param key="offset" value="-15,21"/></asset>
+<asset name="h_wlk_lg_7474748_1_2" mimeType="image/png"><param key="offset" value="-24,23"/></asset>
+<asset name="h_wlk_lg_7474748_1_3" mimeType="image/png"><param key="offset" value="-17,22"/></asset>
+<asset name="h_wlk_lg_7474748_2_0" mimeType="image/png"><param key="offset" value="-23,26"/></asset>
+<asset name="h_wlk_lg_7474748_2_1" mimeType="image/png"><param key="offset" value="-23,26"/></asset>
+<asset name="h_wlk_lg_7474748_2_2" mimeType="image/png"><param key="offset" value="-23,26"/></asset>
+<asset name="h_wlk_lg_7474748_2_3" mimeType="image/png"><param key="offset" value="-19,26"/></asset>
+<asset name="h_wlk_lg_7474748_3_0" mimeType="image/png"><param key="offset" value="-22,22"/></asset>
+<asset name="h_wlk_lg_7474748_3_1" mimeType="image/png"><param key="offset" value="-22,22"/></asset>
+<asset name="h_wlk_lg_7474748_3_2" mimeType="image/png"><param key="offset" value="-22,22"/></asset>
+<asset name="h_wlk_lg_7474748_3_3" mimeType="image/png"><param key="offset" value="-22,22"/></asset>
+<asset name="h_wlk_lg_7474748_7_0" mimeType="image/png"><param key="offset" value="-22,22"/></asset>
+<asset name="h_wlk_lg_7474748_7_1" mimeType="image/png"><param key="offset" value="-22,22"/></asset>
+<asset name="h_wlk_lg_7474748_7_2" mimeType="image/png"><param key="offset" value="-22,22"/></asset>
+<asset name="h_wlk_lg_7474748_7_3" mimeType="image/png"><param key="offset" value="-22,22"/></asset>
+</assets>
+</library>
+</manifest>

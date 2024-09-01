@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<animation name="fx.717" desc="ActionGestureSurprised">
+	<frame>
+		<bodypart id="head" action="GestureSurprised" frame="0" dy="0"/>
+	</frame>
+</animation>

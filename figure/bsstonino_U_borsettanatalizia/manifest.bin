@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright code by Tonino - Graphic Position 2 by teschietto96 - Other images by Oswald. BSS Hotel Italia --><manifest>
+<library name="bsstonino_U_borsettanatalizia" version="0.1">
+<assets>
+<asset name="h_lay_ca_565466_2_0" mimeType="image/png">
+<param key="offset" value="6,46"/>
+</asset>
+<asset name="h_std_ca_565466_0_0" mimeType="image/png">
+<param key="offset" value="-17,51"/>
+</asset>
+<asset name="h_std_ca_565466_1_0" mimeType="image/png">
+<param key="offset" value="-13,52"/>
+</asset>
+<asset name="h_std_ca_565466_2_0" mimeType="image/png">
+<param key="offset" value="-4,49"/>
+</asset>
+<asset name="h_std_ca_565466_3_0" mimeType="image/png">
+<param key="offset" value="-8,51"/>
+</asset>
+<asset name="h_std_ca_565466_7_0" mimeType="image/png">
+<param key="offset" value="-16,50"/>
+</asset>
+</assets>
+</library>
+</manifest>

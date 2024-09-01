@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright by Tonino - Graphic by Matt -->
+<manifest>
+<library name="bsstonino_U_borsettamoderna" version="0.1">
+<assets>
+<asset name="h_lay_ca_78687687_2_0" mimeType="image/png">
+<param key="offset" value="2,18"/>
+</asset>
+<asset name="h_std_ca_78687687_0_0" mimeType="image/png">
+<param key="offset" value="-25,45"/>
+</asset>
+<asset name="h_std_ca_78687687_1_0" mimeType="image/png">
+<param key="offset" value="-18,45"/>
+</asset>
+<asset name="h_std_ca_78687687_2_0" mimeType="image/png">
+<param key="offset" value="-12,48"/>
+</asset>
+<asset name="h_std_ca_78687687_3_0" mimeType="image/png">
+<param key="offset" value="-22,49"/>
+</asset>
+<asset name="h_std_ca_78687687_7_0" mimeType="image/png">
+<param key="offset" value="-37,47"/>
+</asset>
+<asset name="h_lay_ca_78687688_2_0" mimeType="image/png">
+<param key="offset" value="2,18"/>
+</asset>
+<asset name="h_std_ca_78687688_0_0" mimeType="image/png">
+<param key="offset" value="-25,45"/>
+</asset>
+<asset name="h_std_ca_78687688_1_0" mimeType="image/png">
+<param key="offset" value="-18,45"/>
+</asset>
+<asset name="h_std_ca_78687688_2_0" mimeType="image/png">
+<param key="offset" value="-12,48"/>
+</asset>
+<asset name="h_std_ca_78687688_3_0" mimeType="image/png">
+<param key="offset" value="-22,49"/>
+</asset>
+<asset name="h_std_ca_78687688_7_0" mimeType="image/png">
+<param key="offset" value="-37,47"/>
+</asset>
+</assets>
+</library>
+</manifest>

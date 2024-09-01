@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright by Tonino -->
+<manifest>
+<library name="bsstonino_U_zainolinguaccia" version="0.1">
+<assets>
+<asset name="h_lay_ca_90909657_2_0" mimeType="image/png">
+<param key="offset" value="4,23"/>
+</asset>
+<asset name="h_std_ca_90909657_0_0" mimeType="image/png">
+<param key="offset" value="-15,48"/>
+</asset>
+<asset name="h_std_ca_90909657_1_0" mimeType="image/png">
+<param key="offset" value="-13,46"/>
+</asset>
+<asset name="h_std_ca_90909657_2_0" mimeType="image/png">
+<param key="offset" value="-17,49"/>
+</asset>
+<asset name="h_std_ca_90909657_3_0" mimeType="image/png">
+<param key="offset" value="-22,51"/>
+</asset>
+<asset name="h_std_ca_90909657_7_0" mimeType="image/png">
+<param key="offset" value="-21,46"/>
+</asset>
+<asset name="h_lay_ca_90909658_2_0" mimeType="image/png">
+<param key="offset" value="0,0"/>
+</asset>
+<asset name="h_std_ca_90909658_0_0" mimeType="image/png">
+<param key="offset" value="-15,48"/>
+</asset>
+<asset name="h_std_ca_90909658_1_0" mimeType="image/png">
+<param key="offset" value="-13,46"/>
+</asset>
+<asset name="h_std_ca_90909658_2_0" mimeType="image/png">
+<param key="offset" value="-17,49"/>
+</asset>
+<asset name="h_std_ca_90909658_3_0" mimeType="image/png">
+<param key="offset" value="0,0"/>
+</asset>
+<asset name="h_std_ca_90909658_7_0" mimeType="image/png">
+<param key="offset" value="-21,46"/>
+</asset>
+</assets>
+</library>
+</manifest>

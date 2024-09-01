@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+<library name="bsstonino_U_gokumaestercity" version="0.1">
+<assets>
+<asset name="h_lay_hr_55550_2_0" mimeType="image/png">
+<param key="offset" value="47,50"/>
+</asset>
+<asset name="h_lay_hrb_55550_2_0" mimeType="image/png">
+<param key="offset" value="47,50"/>
+</asset>
+<asset name="h_std_hr_55550_0_0" mimeType="image/png">
+<param key="offset" value="-8,96"/>
+</asset>
+<asset name="h_std_hr_55550_1_0" mimeType="image/png">
+<param key="offset" value="-7,94"/>
+</asset>
+<asset name="h_std_hr_55550_2_0" mimeType="image/png">
+<param key="offset" value="-5,94"/>
+</asset>
+<asset name="h_std_hr_55550_3_0" mimeType="image/png">
+<param key="offset" value="-13,95"/>
+</asset>
+<asset name="h_std_hr_55550_7_0" mimeType="image/png">
+<param key="offset" value="-12,94"/>
+</asset>
+<asset name="h_std_hrb_55550_0_0" mimeType="image/png">
+<param key="offset" value="-8,96"/>
+</asset>
+<asset name="h_std_hrb_55550_1_0" mimeType="image/png">
+<param key="offset" value="-7,94"/>
+</asset>
+<asset name="h_std_hrb_55550_2_0" mimeType="image/png">
+<param key="offset" value="-5,94"/>
+</asset>
+<asset name="h_std_hrb_55550_3_0" mimeType="image/png">
+<param key="offset" value="-13,95"/>
+</asset>
+<asset name="h_std_hrb_55550_7_0" mimeType="image/png">
+<param key="offset" value="-12,94"/>
+</asset>
+</assets>
+</library>
+</manifest>

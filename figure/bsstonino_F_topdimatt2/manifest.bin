@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright by Tonino -->
+<manifest>
+<library name="bsstonino_F_topdimatt2" version="0.1">
+<assets>
+<asset name="h_lay_ch_667667767_2_0" mimeType="image/png">
+<param key="offset" value="-9,21"/>
+</asset>
+<asset name="h_std_ch_667667767_0_0" mimeType="image/png">
+<param key="offset" value="-20,36"/>
+</asset>
+<asset name="h_std_ch_667667767_1_0" mimeType="image/png">
+<param key="offset" value="-24,41"/>
+</asset>
+<asset name="h_std_ch_667667767_2_0" mimeType="image/png">
+<param key="offset" value="-22,39"/>
+</asset>
+<asset name="h_std_ch_667667767_3_0" mimeType="image/png">
+<param key="offset" value="-22,39"/>
+</asset>
+<asset name="h_std_ch_667667767_7_0" mimeType="image/png">
+<param key="offset" value="-22,36"/>
+</asset>
+</assets>
+</library>
+</manifest>

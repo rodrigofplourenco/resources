@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+  <library name="hat_U_tiarcele" version="0.1">
+    <assets>
+      <asset name="h_std_ha_5640_7_0" mimeType="image/png">
+        <param key="offset" value="-13,71"/>
+      </asset>
+      <asset name="h_std_ha_5640_3_0" mimeType="image/png">
+        <param key="offset" value="-14,76"/>
+      </asset>
+      <asset name="h_std_ha_5640_2_0" mimeType="image/png">
+        <param key="offset" value="-13,80"/>
+      </asset>
+      <asset name="h_std_ha_5640_1_0" mimeType="image/png">
+        <param key="offset" value="-13,76"/>
+      </asset>
+      <asset name="h_std_ha_5640_0_0" mimeType="image/png">
+        <param key="offset" value="-12,71"/>
+      </asset>
+      <asset name="h_spk_ha_5640_7_0" mimeType="image/png">
+        <param key="offset" value="-13,71"/>
+      </asset>
+      <asset name="h_spk_ha_5640_3_0" mimeType="image/png">
+        <param key="offset" value="-14,76"/>
+      </asset>
+      <asset name="h_spk_ha_5640_2_0" mimeType="image/png">
+        <param key="offset" value="-13,80"/>
+      </asset>
+      <asset name="h_spk_ha_5640_1_0" mimeType="image/png">
+        <param key="offset" value="-13,76"/>
+      </asset>
+      <asset name="h_spk_ha_5640_0_0" mimeType="image/png">
+        <param key="offset" value="-12,71"/>
+      </asset>
+      <asset name="h_lay_ha_5640_2_0" mimeType="image/png">
+        <param key="offset" value="19,40"/>
+      </asset>
+      <asset name="h_lsp_ha_5640_2_0" mimeType="image/png">
+        <param key="offset" value="-44,-119"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

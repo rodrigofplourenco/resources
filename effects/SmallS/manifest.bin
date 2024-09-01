@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<manifest><library id="SmallS" version="0.1">
+  <assets>
+<asset mimeType="text/xml" name="fx501"/>
+  </assets>
+  <aliases/>
+</library></manifest>

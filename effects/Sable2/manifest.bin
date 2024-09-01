@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<manifest><library id="Sable2" version="0.1">
+  <assets>
+    <asset name="h_std_fx528_1_1_6_0" mimeType="image/png">
+      <param key="offset" value="-33,92"/>
+    </asset>
+    <asset name="h_std_fx528_1_1_5_0" mimeType="image/png">
+      <param key="offset" value="-17,87"/>
+    </asset>
+    <asset name="h_std_fx528_1_1_7_0" mimeType="image/png">
+      <param key="offset" value="-43,87"/>
+    </asset>
+    <asset name="h_std_fx528_1_1_3_0" mimeType="image/png">
+      <param key="offset" value="-24,83"/>
+    </asset>
+    <asset name="h_std_fx528_1_1_4_0" mimeType="image/png">
+      <param key="offset" value="-10,86"/>
+    </asset>
+    <asset name="h_std_fx528_1_1_2_0" mimeType="image/png">
+      <param key="offset" value="-33,80"/>
+    </asset>
+    <asset name="h_std_fx528_1_1_1_0" mimeType="image/png">
+      <param key="offset" value="-44,85"/>
+    </asset>
+    <asset name="h_std_fx528_1_1_0_0" mimeType="image/png">
+      <param key="offset" value="-51,89"/>
+    </asset>
+  </assets>
+  <aliases/>
+</library></manifest>

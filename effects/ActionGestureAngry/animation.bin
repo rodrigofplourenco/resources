@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<animation name="fx.716" desc="ActionGestureAngry">
+	<frame>
+		<bodypart id="head" action="GestureAngry" frame="0" dy="0"/>
+	</frame>
+</animation>

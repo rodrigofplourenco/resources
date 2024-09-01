@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_cappellobanana" version="0.1">
+<assets>
+<asset name="h_lay_ha_39483640_2_0" mimeType="image/png">
+<param key="offset" value="54,58"/>
+</asset>
+<asset name="h_std_ha_39483640_0_0" mimeType="image/png">
+<param key="offset" value="0,102"/>
+</asset>
+<asset name="h_std_ha_39483640_1_0" mimeType="image/png">
+<param key="offset" value="-2,109"/>
+</asset>
+<asset name="h_std_ha_39483640_2_0" mimeType="image/png">
+<param key="offset" value="-2,105"/>
+</asset>
+<asset name="h_std_ha_39483640_3_0" mimeType="image/png">
+<param key="offset" value="-5,106"/>
+</asset>
+<asset name="h_std_ha_39483640_7_0" mimeType="image/png">
+<param key="offset" value="-7,102"/>
+</asset>
+</assets>
+</library>
+</manifest>

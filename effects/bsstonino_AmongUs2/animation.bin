@@ -1,0 +1,148 @@
+<?xml version='1.0'?>
+<animation name="fx.584" desc="Among Us effect by Atlas">
+	<remove id="ha" />
+	<remove id="he" />
+	<remove id="hr" />
+	<remove id="hrb" />
+	<remove id="ey" />
+	<remove id="ea" />
+	<remove id="fa" />
+	<remove id="fc" />
+	<remove id="hd" />
+	<remove id="ca" />
+	<remove id="cc" />
+	<remove id="ch" />
+	<remove id="wa" />
+	<remove id="lh" />
+	<remove id="ls" />
+	<remove id="lc" />
+	<remove id="li" />
+	<remove id="rh" />	
+	<remove id="rc" />
+	<remove id="rs" /> 
+	<remove id="sh" />
+	<remove id="lg" />
+	<remove id="bd" />
+	<remove id="bds" />
+	<remove id="ss" />
+	<remove id="lhs" />
+	<remove id="rhs" />
+	<remove id="cp" />
+	<remove id="sd" />
+	<override name="walk" override="mv">
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Move" frame="0">
+				<item id="sh" base="fx584_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Move" frame="1">
+				<item id="sh" base="fx584_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Move" frame="1">
+				<item id="sh" base="fx584_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Move" frame="2">
+				<item id="sh" base="fx584_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Move" frame="3">
+				<item id="sh" base="fx584_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Move" frame="3">
+				<item id="sh" base="fx584_1"/>
+			</bodypart>
+		</frame>
+	</override>
+	<override name="stand" override="std">
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="sh" base="fx584_1"/>
+			</bodypart>
+		</frame>
+	</override>
+	<override name="sit" override="sit">
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="bd" base="fx584_1"/>
+			</bodypart>
+		</frame>
+	</override>
+	<override name="lay" override="lay">
+		<frame>
+			<bodypart id="head"/>
+			<bodypart id="leftarm"/>
+			<bodypart id="rightarm"/>
+			<bodypart id="bottom"/>
+			<bodypart id="behind"/>
+			<bodypart id="leftitem"/>
+			<bodypart id="rightitem"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="sh" base="fx584_1"/>
+			</bodypart>
+		</frame>
+	</override>
+</animation>

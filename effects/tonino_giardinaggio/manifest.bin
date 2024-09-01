@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<manifest><library id="tonino_giardinaggio" version="0.1">
+  <assets>
+    <asset name="h_std_fx633_1_1_0_0" mimeType="image/png">
+      <param key="offset" value="-32,48"/>
+    </asset>
+    <asset name="h_std_fx633_1_1_1_0" mimeType="image/png">
+      <param key="offset" value="-42,33"/>
+    </asset>
+    <asset name="h_std_fx633_1_1_2_0" mimeType="image/png">
+      <param key="offset" value="-34,39"/>
+    </asset>
+    <asset name="h_std_fx633_1_1_3_0" mimeType="image/png">
+      <param key="offset" value="-13,26"/>
+    </asset>
+    <asset name="h_std_fx633_1_1_4_0" mimeType="image/png">
+      <param key="offset" value="34,36"/>
+    </asset>
+    <asset name="h_std_fx633_1_1_5_0" mimeType="image/png">
+      <param key="offset" value="40,33"/>
+    </asset>
+    <asset name="h_std_fx633_1_1_6_0" mimeType="image/png">
+      <param key="offset" value="25,47"/>
+    </asset>
+    <asset name="h_std_fx633_1_1_7_0" mimeType="image/png">
+      <param key="offset" value="-14,52"/>
+    </asset>
+  </assets>
+  <aliases/>
+</library></manifest>

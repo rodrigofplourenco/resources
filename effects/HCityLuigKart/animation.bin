@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+<animation name="fx.628" desc="HCityLuigKart">
+	<shadow id="std_fx628_sd_1" />
+	<add id="fx628_1" align="bottom" />
+	<add id="fx628_2" align="top" />
+	<add id="fx628_3" align="rightitem" blend="60" ink="8" />
+	<remove id="sh" />
+	<frame>
+		<bodypart id="torso" action="Default" frame="0" />
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx628_1" action="Default" />
+		<fx id="fx628_2" action="Default" />
+		<fx id="fx628_3" action="Default" />
+	</frame>
+</animation>

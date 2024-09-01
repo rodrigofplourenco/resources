@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<manifest><library id="HcityRikudo" version="0.1">
+  <assets>
+    <asset name="h_std_fx655_1_1_0_0" mimeType="image/png">
+      <param key="offset" value="3,89"/>
+    </asset>
+    <asset name="h_std_fx655_2_1_0_0" mimeType="image/png">
+      <param key="offset" value="-44,84"/>
+    </asset>
+    <asset name="h_std_fx655_1_1_1_0" mimeType="image/png">
+      <param key="offset" value="-4,84"/>
+    </asset>
+    <asset name="h_std_fx655_2_1_1_0" mimeType="image/png">
+      <param key="offset" value="-44,82"/>
+    </asset>
+    <asset name="h_std_fx655_1_1_2_0" mimeType="image/png">
+      <param key="offset" value="3,94"/>
+    </asset>
+    <asset name="h_std_fx655_2_1_2_0" mimeType="image/png">
+      <param key="offset" value="-27,79"/>
+    </asset>
+    <asset name="h_std_fx655_1_1_3_0" mimeType="image/png">
+      <param key="offset" value="5,92"/>
+    </asset>
+    <asset name="h_std_fx655_2_1_3_0" mimeType="image/png">
+      <param key="offset" value="-16,81"/>
+    </asset>
+    <asset name="h_std_fx655_1_1_4_0" mimeType="image/png">
+      <param key="offset" value="3,94"/>
+    </asset>
+    <asset name="h_std_fx655_2_1_4_0" mimeType="image/png">
+      <param key="offset" value="-3,84"/>
+    </asset>
+    <asset name="h_std_fx655_1_1_5_0" mimeType="image/png">
+      <param key="offset" value="-47,96"/>
+    </asset>
+    <asset name="h_std_fx655_2_1_5_0" mimeType="image/png">
+      <param key="offset" value="-5,82"/>
+    </asset>
+    <asset name="h_std_fx655_1_1_6_0" mimeType="image/png">
+      <param key="offset" value="0,89"/>
+    </asset>
+    <asset name="h_std_fx655_2_1_6_0" mimeType="image/png">
+      <param key="offset" value="-22,93"/>
+    </asset>
+    <asset name="h_std_fx655_1_1_7_0" mimeType="image/png">
+      <param key="offset" value="7,97"/>
+    </asset>
+    <asset name="h_std_fx655_2_1_7_0" mimeType="image/png">
+      <param key="offset" value="-36,88"/>
+    </asset>
+  </assets>
+  <aliases>
+    <alias name="h_crr_ri_fx655_1_0_0" link="h_std_fx655_1_1_0_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx655_1_1_0" link="h_std_fx655_1_1_1_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx655_1_2_0" link="h_std_fx655_1_1_2_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx655_1_3_0" link="h_std_fx655_1_1_3_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx655_1_4_0" link="h_std_fx655_1_1_4_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx655_1_5_0" link="h_std_fx655_1_1_5_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx655_2_0_0" link="h_std_fx655_2_1_0_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx655_2_1_0" link="h_std_fx655_2_1_1_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx655_2_2_0" link="h_std_fx655_2_1_2_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx655_2_3_0" link="h_std_fx655_2_1_3_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx655_2_4_0" link="h_std_fx655_2_1_4_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx655_2_5_0" link="h_std_fx655_2_1_5_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx655_2_6_0" link="h_std_fx655_2_1_6_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx655_2_7_0" link="h_std_fx655_2_1_7_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx655_2_0_0" link="h_std_fx655_2_1_0_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx655_2_1_0" link="h_std_fx655_2_1_1_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx655_2_2_0" link="h_std_fx655_2_1_2_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx655_2_3_0" link="h_std_fx655_2_1_3_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx655_2_4_0" link="h_std_fx655_2_1_4_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx655_2_5_0" link="h_std_fx655_2_1_5_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx655_2_6_0" link="h_std_fx655_2_1_6_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx655_2_7_0" link="h_std_fx655_2_1_7_0" fliph="0" flipv="0"/>
+  </aliases>
+</library></manifest>

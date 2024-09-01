@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<manifest><library id="ToninoxMaester_Flamme" version="0.1">
+  <assets>
+    <asset name="h_std_fx657_1_1_0_0" mimeType="image/png">
+      <param key="offset" value="-7,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_0_1" mimeType="image/png">
+      <param key="offset" value="-7,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_0_2" mimeType="image/png">
+      <param key="offset" value="-7,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_0_3" mimeType="image/png">
+      <param key="offset" value="-7,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_0_4" mimeType="image/png">
+      <param key="offset" value="-7,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_1_0" mimeType="image/png">
+      <param key="offset" value="-3,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_1_1" mimeType="image/png">
+      <param key="offset" value="-3,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_1_2" mimeType="image/png">
+      <param key="offset" value="-3,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_1_3" mimeType="image/png">
+      <param key="offset" value="-3,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_1_4" mimeType="image/png">
+      <param key="offset" value="-3,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_2_0" mimeType="image/png">
+      <param key="offset" value="-6,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_2_1" mimeType="image/png">
+      <param key="offset" value="-6,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_2_2" mimeType="image/png">
+      <param key="offset" value="-6,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_2_3" mimeType="image/png">
+      <param key="offset" value="-6,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_2_4" mimeType="image/png">
+      <param key="offset" value="-6,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_3_0" mimeType="image/png">
+      <param key="offset" value="-8,123"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_3_1" mimeType="image/png">
+      <param key="offset" value="-8,123"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_3_2" mimeType="image/png">
+      <param key="offset" value="-8,123"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_3_3" mimeType="image/png">
+      <param key="offset" value="-8,123"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_3_4" mimeType="image/png">
+      <param key="offset" value="-8,123"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_4_0" mimeType="image/png">
+      <param key="offset" value="-11,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_4_1" mimeType="image/png">
+      <param key="offset" value="-11,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_4_2" mimeType="image/png">
+      <param key="offset" value="-11,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_4_3" mimeType="image/png">
+      <param key="offset" value="-11,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_4_4" mimeType="image/png">
+      <param key="offset" value="-11,122"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_5_0" mimeType="image/png">
+      <param key="offset" value="-14,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_5_1" mimeType="image/png">
+      <param key="offset" value="-14,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_5_2" mimeType="image/png">
+      <param key="offset" value="-14,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_5_3" mimeType="image/png">
+      <param key="offset" value="-14,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_5_4" mimeType="image/png">
+      <param key="offset" value="-14,119"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_6_0" mimeType="image/png">
+      <param key="offset" value="-10,118"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_6_1" mimeType="image/png">
+      <param key="offset" value="-10,118"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_6_2" mimeType="image/png">
+      <param key="offset" value="-10,118"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_6_3" mimeType="image/png">
+      <param key="offset" value="-10,118"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_6_4" mimeType="image/png">
+      <param key="offset" value="-10,118"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_7_0" mimeType="image/png">
+      <param key="offset" value="-8,116"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_7_1" mimeType="image/png">
+      <param key="offset" value="-8,116"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_7_2" mimeType="image/png">
+      <param key="offset" value="-8,116"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_7_3" mimeType="image/png">
+      <param key="offset" value="-8,116"/>
+    </asset>
+    <asset name="h_std_fx657_1_1_7_4" mimeType="image/png">
+      <param key="offset" value="-8,116"/>
+    </asset>
+  </assets>
+  <aliases/>
+</library></manifest>

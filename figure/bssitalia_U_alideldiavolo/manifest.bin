@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="bssitalia_U_alideldiavolo" version="0.1">
+    <assets>
+      <asset name="h_std_ca_31755_7_0" mimeType="image/png">
+        <param key="offset" value="-12,46"/>
+      </asset>
+      <asset name="h_std_ca_31755_3_0" mimeType="image/png">
+        <param key="offset" value="-9,55"/>
+      </asset>
+      <asset name="h_std_ca_31755_2_0" mimeType="image/png">
+        <param key="offset" value="-8,56"/>
+      </asset>
+      <asset name="h_std_ca_31755_1_0" mimeType="image/png">
+        <param key="offset" value="-7,55"/>
+      </asset>
+      <asset name="h_std_ca_31755_0_0" mimeType="image/png">
+        <param key="offset" value="-8,52"/>
+      </asset>
+      <asset name="h_lay_ca_31755_2_0" mimeType="image/png">
+        <param key="offset" value="18,15"/>
+      </asset>
+      <asset name="sh_std_ca_31755_7_0" mimeType="image/png">
+        <param key="offset" value="-6,23"/>
+      </asset>
+      <asset name="sh_std_ca_31755_3_0" mimeType="image/png">
+        <param key="offset" value="-4,27"/>
+      </asset>
+      <asset name="sh_std_ca_31755_2_0" mimeType="image/png">
+        <param key="offset" value="-4,28"/>
+      </asset>
+      <asset name="sh_std_ca_31755_1_0" mimeType="image/png">
+        <param key="offset" value="-3,27"/>
+      </asset>
+      <asset name="sh_std_ca_31755_0_0" mimeType="image/png">
+        <param key="offset" value="-4,26"/>
+      </asset>
+      <asset name="sh_lay_ca_31755_2_0" mimeType="image/png">
+        <param key="offset" value="9,7"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

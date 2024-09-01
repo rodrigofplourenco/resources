@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_orecchinifreccia" version="0.1">
+<assets>
+<asset name="h_lay_he_90889795_2_0" mimeType="image/png">
+<param key="offset" value="10,18"/>
+</asset>
+<asset name="h_std_he_90889795_0_0" mimeType="image/png">
+<param key="offset" value="-35,54"/>
+</asset>
+<asset name="h_std_he_90889795_1_0" mimeType="image/png">
+<param key="offset" value="-25,55"/>
+</asset>
+<asset name="h_std_he_90889795_2_0" mimeType="image/png">
+<param key="offset" value="-21,61"/>
+</asset>
+<asset name="h_std_he_90889795_3_0" mimeType="image/png">
+<param key="offset" value="-19,57"/>
+</asset>
+<asset name="h_std_he_90889795_7_0" mimeType="image/png">
+<param key="offset" value="-18,54"/>
+</asset>
+</assets>
+</library>
+</manifest>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_palladivetro" version="0.1">
+<assets>
+<asset name="h_lay_ca_39483631_2_0" mimeType="image/png">
+<param key="offset" value="0,0"/>
+</asset>
+<asset name="h_std_ca_39483631_0_0" mimeType="image/png">
+<param key="offset" value="-16,42"/>
+</asset>
+<asset name="h_std_ca_39483631_1_0" mimeType="image/png">
+<param key="offset" value="-8,43"/>
+</asset>
+<asset name="h_std_ca_39483631_2_0" mimeType="image/png">
+<param key="offset" value="-13,44"/>
+</asset>
+<asset name="h_std_ca_39483631_7_0" mimeType="image/png">
+<param key="offset" value="-23,42"/>
+</asset>
+<asset name="h_lay_ca_39483632_2_0" mimeType="image/png">
+<param key="offset" value="4,23"/>
+</asset>
+<asset name="h_std_ca_39483632_0_0" mimeType="image/png">
+<param key="offset" value="-20,48"/>
+</asset>
+<asset name="h_std_ca_39483632_1_0" mimeType="image/png">
+<param key="offset" value="-22,47"/>
+</asset>
+<asset name="h_std_ca_39483632_2_0" mimeType="image/png">
+<param key="offset" value="-24,47"/>
+</asset>
+<asset name="h_std_ca_39483632_3_0" mimeType="image/png">
+<param key="offset" value="-23,49"/>
+</asset>
+<asset name="h_std_ca_39483632_7_0" mimeType="image/png">
+<param key="offset" value="-23,46"/>
+</asset>
+</assets>
+</library>
+</manifest>

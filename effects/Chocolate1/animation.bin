@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<animation name="fx.700" desc="Chocolate1">
+	<remove id="ha" />
+	<remove id="hrb" />
+	<avatar ink="4" foreground="#744324" background="#301C12" />
+</animation>

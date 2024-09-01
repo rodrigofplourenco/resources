@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+<animation name="fx.636" desc="Trampoline 360">
+	
+<!-- sink -->
+	<frame>
+		<bodypart id="leftarm" action="Move" frame="0" dy="0" dd="0"/>
+		<bodypart id="rightarm" action="Move" frame="0" dy="0" dd="0"/>
+		<bodypart id="torso" action="Move" frame="2" dy="1" dd="0"/>
+		<bodypart id="head" action="Default" frame="0" dy="1" dd="0"/>
+	</frame>
+	<frame>
+		<bodypart id="leftarm" action="Move" frame="0" dy="1" dd="0"/>
+		<bodypart id="rightarm" action="Move" frame="0" dy="1" dd="0"/>
+		<bodypart id="torso" action="Move" frame="2" dy="2" dd="0"/>
+		<bodypart id="head" action="Default" frame="0" dy="1" dd="0"/>
+	</frame>
+	<frame>
+		<bodypart id="leftarm" action="Move" frame="0" dy="3" dd="0"/>
+		<bodypart id="rightarm" action="Move" frame="0" dy="3" dd="0"/>
+		<bodypart id="torso" action="Move" frame="2" dy="2" dd="0"/>
+		<bodypart id="head" action="Default" frame="0" dy="2" dd="0"/>
+	</frame>
+<!-- jump -->
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="0" dd="0"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="0" dd="0"/>
+		<bodypart id="torso" action="Default" frame="0" dy="0" dd="0"/>
+		<bodypart id="head" action="Default" frame="0" dy="0" dd="0"/>
+	</frame>
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-4" dd="1"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-4" dd="1"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-4" dd="1"/>
+		<bodypart id="head" action="Default" frame="0" dy="-4" dd="1"/>
+	</frame>
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-8" dd="1"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-8" dd="1"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-8" dd="1"/>
+		<bodypart id="head" action="Default" frame="0" dy="-8" dd="1"/>
+	</frame>
+
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-12" dd="2"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-12" dd="2"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-12" dd="2"/>
+		<bodypart id="head" action="Default" frame="0" dy="-12" dd="2"/>
+	</frame>
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-14" dd="3"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-14" dd="3"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-14" dd="3"/>
+		<bodypart id="head" action="Default" frame="0" dy="-14" dd="3"/>
+	</frame>
+<!-- apex -->
+	<frame>
+		<bodypart id="torso" action="Default" frame="0" dx="0" dy="-15" dd="3" />
+		<bodypart id="leftarm" action="Default" frame="0" dx="0" dy="-15" dd="3" />
+		<bodypart id="rightarm" action="Default" frame="0" dx="0" dy="-15" dd="3" />
+		<bodypart id="head" action="Default" frame="0" dx="0" dy="-14" dd="3" />
+	</frame>
+	<frame>
+		<bodypart id="torso" action="Default" frame="0" dx="0" dy="-15" dd="4" />
+		<bodypart id="leftarm" action="Default" frame="0" dx="0" dy="-15" dd="4" />
+		<bodypart id="rightarm" action="Default" frame="0" dx="0" dy="-15" dd="4" />
+		<bodypart id="head" action="Default" frame="0" dx="0" dy="-14" dd="4" />
+	</frame>
+	<frame>
+		<bodypart id="torso" action="Default" frame="0" dx="0" dy="-15" dd="-3" />
+		<bodypart id="leftarm" action="Default" frame="0" dx="0" dy="-15" dd="-3" />
+		<bodypart id="rightarm" action="Default" frame="0" dx="0" dy="-15" dd="-3" />
+		<bodypart id="head" action="Default" frame="0" dx="0" dy="-14" dd="-3" />
+	</frame>
+<!-- fall -->
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-14" dd="-3"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-14" dd="-3"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-14" dd="-3"/>
+		<bodypart id="head" action="Default" frame="0" dy="-14" dd="-3"/>
+	</frame>
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-12" dd="-2"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-12" dd="-2"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-12" dd="-2"/>
+		<bodypart id="head" action="Default" frame="0" dy="-11" dd="-2"/>
+	</frame>
+
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-8" dd="-2"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-8" dd="-2"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-7" dd="-2"/>
+		<bodypart id="head" action="Default" frame="0" dy="-7" dd="-2"/>
+	</frame>
+
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-4" dd="-1"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-4" dd="-1"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-3" dd="-1"/>
+		<bodypart id="head" action="Default" frame="0" dy="-3" dd="-1"/>
+	</frame>
+
+	<frame>
+		<bodypart id="leftarm" action="Default" frame="0" dy="-2" dd="-1"/>
+		<bodypart id="rightarm" action="Default" frame="0" dy="-2" dd="-1"/>
+		<bodypart id="torso" action="Default" frame="0" dy="-1" dd="-1"/>
+		<bodypart id="head" action="Default" frame="0" dy="-1" dd="-1"/>
+	</frame>
+
+
+
+</animation>

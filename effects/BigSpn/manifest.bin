@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<manifest><library id="BigSpn" version="0.1">
+  <assets>
+<asset mimeType="text/xml" name="fx500"/>
+  </assets>
+  <aliases/>
+</library></manifest>

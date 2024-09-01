@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<manifest>
+    <library name='face_U_gojo' version='0.1'>
+        <assets>
+            <asset name='h_std_ey_173925_3_0' mimeType='image/png'>
+                <param key='offset' value='-24,59' />
+            </asset>
+            <asset name='h_std_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-30,61' />
+            </asset>
+            <asset name='h_std_ey_173925_1_0' mimeType='image/png'>
+                <param key='offset' value='-35,62' />
+            </asset>
+            <asset name='h_eyb_ey_173925_3_0' mimeType='image/png'>
+                <param key='offset' value='-24,59' />
+            </asset>
+            <asset name='h_eyb_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-30,62' />
+            </asset>
+            <asset name='h_eyb_ey_173925_1_0' mimeType='image/png'>
+                <param key='offset' value='-35,62' />
+            </asset>
+            <asset name='h_agr_ey_173925_3_0' mimeType='image/png'>
+                <param key='offset' value='-24,63' />
+            </asset>
+            <asset name='h_agr_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-29,64' />
+            </asset>
+            <asset name='h_agr_ey_173925_1_0' mimeType='image/png'>
+                <param key='offset' value='-35,64' />
+            </asset>
+            <asset name='h_sad_ey_173925_3_0' mimeType='image/png'>
+                <param key='offset' value='-24,61' />
+            </asset>
+            <asset name='h_sad_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-30,62' />
+            </asset>
+            <asset name='h_sad_ey_173925_1_0' mimeType='image/png'>
+                <param key='offset' value='-35,64' />
+            </asset>
+            <asset name='h_blw_ey_173925_3_0' mimeType='image/png'>
+                <param key='offset' value='-24,59' />
+            </asset>
+            <asset name='h_blw_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-30,61' />
+            </asset>
+            <asset name='h_blw_ey_173925_1_0' mimeType='image/png'>
+                <param key='offset' value='-35,62' />
+            </asset>
+            <asset name='h_sml_ey_173925_3_0' mimeType='image/png'>
+                <param key='offset' value='-24,59' />
+            </asset>
+            <asset name='h_sml_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-30,61' />
+            </asset>
+            <asset name='h_sml_ey_173925_1_0' mimeType='image/png'>
+                <param key='offset' value='-35,62' />
+            </asset>
+            <asset name='h_srp_ey_173925_3_0' mimeType='image/png'>
+                <param key='offset' value='-24,61' />
+            </asset>
+            <asset name='h_srp_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-30,63' />
+            </asset>
+            <asset name='h_srp_ey_173925_1_0' mimeType='image/png'>
+                <param key='offset' value='-35,64' />
+            </asset>
+            <asset name='h_lay_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='10,34' />
+            </asset>
+            <asset name='h_ley_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-56,-126' />
+            </asset>
+            <asset name='h_lsa_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-56,-126' />
+            </asset>
+            <asset name='h_lsr_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-55,-125' />
+            </asset>
+            <asset name='h_lag_ey_173925_2_0' mimeType='image/png'>
+                <param key='offset' value='-56,-126' />
+            </asset>
+            <asset name='h_std_fc_173924_1_0' mimeType='image/png'>
+                <param key='offset' value='-39,59' />
+            </asset>
+            <asset name='h_std_fc_173924_2_0' mimeType='image/png'>
+                <param key='offset' value='-34,58' />
+            </asset>
+            <asset name='h_lay_fc_173924_2_0' mimeType='image/png'>
+                <param key='offset' value='10,34' />
+            </asset>
+            <asset name='h_std_fc_173924_3_0' mimeType='image/png'>
+                <param key='offset' value='-28,56' />
+            </asset>
+            <asset name='h_eyb_fc_173924_1_0' mimeType='image/png'>
+                <param key='offset' value='-34,58' />
+            </asset>
+            <asset name='h_eyb_fc_173924_2_0' mimeType='image/png'>
+                <param key='offset' value='-34,58' />
+            </asset>
+            <asset name='h_eyb_fc_173924_3_0' mimeType='image/png'>
+                <param key='offset' value='-34,58' />
+            </asset>
+        </assets>
+    </library>
+</manifest>

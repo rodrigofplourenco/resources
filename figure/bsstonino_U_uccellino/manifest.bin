@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_uccellino" version="0.1">
+<assets>
+<asset name="h_lay_ha_3423433_2_0" mimeType="image/png">
+<param key="offset" value="22,48"/>
+</asset>
+<asset name="h_std_ha_3423433_0_0" mimeType="image/png">
+<param key="offset" value="-22,86"/>
+</asset>
+<asset name="h_std_ha_3423433_1_0" mimeType="image/png">
+<param key="offset" value="-22,90"/>
+</asset>
+<asset name="h_std_ha_3423433_2_0" mimeType="image/png">
+<param key="offset" value="-22,87"/>
+</asset>
+<asset name="h_std_ha_3423433_3_0" mimeType="image/png">
+<param key="offset" value="-24,88"/>
+</asset>
+<asset name="h_std_ha_3423433_7_0" mimeType="image/png">
+<param key="offset" value="-24,88"/>
+</asset>
+<asset name="h_lay_ha_3423434_2_0" mimeType="image/png">
+<param key="offset" value="22,48"/>
+</asset>
+<asset name="h_std_ha_3423434_0_0" mimeType="image/png">
+<param key="offset" value="-22,86"/>
+</asset>
+<asset name="h_std_ha_3423434_1_0" mimeType="image/png">
+<param key="offset" value="-22,90"/>
+</asset>
+<asset name="h_std_ha_3423434_2_0" mimeType="image/png">
+<param key="offset" value="-22,87"/>
+</asset>
+<asset name="h_std_ha_3423434_3_0" mimeType="image/png">
+<param key="offset" value="-24,88"/>
+</asset>
+<asset name="h_std_ha_3423434_7_0" mimeType="image/png">
+<param key="offset" value="-24,88"/>
+</asset>
+</assets>
+</library>
+</manifest>

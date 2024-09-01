@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<animation name="fx.713" desc="ActionTalk">
+	<frame>
+		<bodypart id="head"/>
+		<item id="hr" action="Talk" frame="0" dy="0"/> 
+	</frame>
+	<frame>
+		<bodypart id="head" action="Talk" frame="0" dy="0"/>
+	</frame>
+	<frame>
+		<bodypart id="head" action="Talk" frame="1" dy="0"/>
+	</frame>
+	<frame>
+		<bodypart id="head" action="Talk" frame="2" dy="0"/>
+	</frame>
+	<frame>
+		<bodypart id="head"/>
+		<item id="hr" action="Talk" frame="3" dy="0"/> 
+	</frame>
+</animation>

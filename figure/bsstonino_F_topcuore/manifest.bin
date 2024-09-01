@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_F_topcuore" version="0.1">
+<assets>
+<asset name="h_lay_ch_39483644_2_0" mimeType="image/png">
+<param key="offset" value="-7,23"/>
+</asset>
+<asset name="h_std_ch_39483644_1_0" mimeType="image/png">
+<param key="offset" value="-23,41"/>
+</asset>
+<asset name="h_std_ch_39483644_2_0" mimeType="image/png">
+<param key="offset" value="-21,40"/>
+</asset>
+<asset name="h_std_ch_39483644_3_0" mimeType="image/png">
+<param key="offset" value="-22,40"/>
+</asset>
+<asset name="h_lay_ch_39483645_2_0" mimeType="image/png">
+<param key="offset" value="-7,23"/>
+</asset>
+<asset name="h_std_ch_39483645_0_0" mimeType="image/png">
+<param key="offset" value="-20,38"/>
+</asset>
+<asset name="h_std_ch_39483645_1_0" mimeType="image/png">
+<param key="offset" value="-23,41"/>
+</asset>
+<asset name="h_std_ch_39483645_2_0" mimeType="image/png">
+<param key="offset" value="-21,40"/>
+</asset>
+<asset name="h_std_ch_39483645_3_0" mimeType="image/png">
+<param key="offset" value="-22,40"/>
+</asset>
+<asset name="h_std_ch_39483645_7_0" mimeType="image/png">
+<param key="offset" value="-22,34"/>
+</asset>
+</assets>
+</library>
+</manifest>

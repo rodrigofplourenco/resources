@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_minidinosauro" version="0.1">
+<assets>
+<asset name="h_lay_ha_800106_2_0" mimeType="image/png">
+<param key="offset" value="34,49"/>
+</asset>
+<asset name="h_std_ha_800106_0_0" mimeType="image/png">
+<param key="offset" value="-24,90"/>
+</asset>
+<asset name="h_std_ha_800106_1_0" mimeType="image/png">
+<param key="offset" value="-24,90"/>
+</asset>
+<asset name="h_std_ha_800106_2_0" mimeType="image/png">
+<param key="offset" value="-24,90"/>
+</asset>
+<asset name="h_std_ha_800106_3_0" mimeType="image/png">
+<param key="offset" value="-24,90"/>
+</asset>
+<asset name="h_std_ha_800106_7_0" mimeType="image/png">
+<param key="offset" value="-24,90"/>
+</asset>
+</assets>
+</library>
+</manifest>

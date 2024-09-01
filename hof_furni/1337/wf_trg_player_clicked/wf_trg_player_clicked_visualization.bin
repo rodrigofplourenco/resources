@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="wf_trg_player_clicked">
+<graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="64" layerCount="1" angle="45">
+    <layers/>
+    <directions>
+      <direction id="0"/>
+      <direction id="6"/>
+    </directions>
+    <colors/>
+    <animations>
+        <animation id="0">
+         <animationLayer id="0">
+          <frameSequence>
+           <frame id="0"/>
+          </frameSequence>
+         </animationLayer>
+        </animation>
+
+        <animation id="1">
+         <animationLayer id="0">
+          <frameSequence>
+           <frame id="0"/>
+          </frameSequence>
+         </animationLayer>
+        </animation>
+
+        <animation id="100" transitionTo="1">
+         <animationLayer id="0" frameRepeat="4">
+          <frameSequence>
+           <frame id="0"/>
+           <frame id="1"/>
+           <frame id="2"/>
+           <frame id="3"/>
+           <frame id="0"/>
+           <frame id="1"/>
+           <frame id="2"/>
+           <frame id="3"/>
+           <frame id="0"/>
+          </frameSequence>
+         </animationLayer>
+        </animation>
+
+        <animation id="101" transitionTo="1">
+         <animationLayer id="0" frameRepeat="4">
+          <frameSequence>
+           <frame id="0"/>
+           <frame id="1"/>
+           <frame id="2"/>
+           <frame id="3"/>
+           <frame id="0"/>
+           <frame id="1"/>
+           <frame id="2"/>
+           <frame id="3"/>
+           <frame id="0"/>
+          </frameSequence>
+         </animationLayer>
+        </animation>
+
+    </animations>
+  </visualization>
+</graphics>
+</visualizationData>

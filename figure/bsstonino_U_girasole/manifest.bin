@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_girasole" version="0.1">
+<assets>
+<asset name="h_lay_ha_39483647_2_0" mimeType="image/png">
+<param key="offset" value="25,45"/>
+</asset>
+<asset name="h_std_ha_39483647_0_0" mimeType="image/png">
+<param key="offset" value="-17,77"/>
+</asset>
+<asset name="h_std_ha_39483647_1_0" mimeType="image/png">
+<param key="offset" value="-18,79"/>
+</asset>
+<asset name="h_std_ha_39483647_2_0" mimeType="image/png">
+<param key="offset" value="-16,81"/>
+</asset>
+<asset name="h_std_ha_39483647_3_0" mimeType="image/png">
+<param key="offset" value="-18,78"/>
+</asset>
+<asset name="h_std_ha_39483647_7_0" mimeType="image/png">
+<param key="offset" value="-22,77"/>
+</asset>
+</assets>
+</library>
+</manifest>

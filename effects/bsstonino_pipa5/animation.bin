@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<animation name="fx.687" desc="bsstonino_pipa5">
+		<sprite directions="1" id="fx687_1" member="std_fx687_1_1">
+		<direction dz="1" id="0"/>
+		<direction dz="1" id="1"/>
+		<direction dz="1" id="2"/>
+		<direction dz="1" id="3"/>
+		<direction dz="1" id="4"/>
+		<direction dz="1" id="5"/>
+		<direction dz="-1" id="6"/>
+		<direction dz="-1" id="7"/>
+	</sprite>
+	<frame>
+		<bodypart id="rightarm" action="UseItem" frame="0" />
+		<bodypart id="rightitem" action="UseItem" frame="0" base="fx687_1" />
+	</frame>
+</animation>
+

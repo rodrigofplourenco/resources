@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<manifest><library id="BiaTridentPoseidon" version="0.1">
+  <assets>
+      <asset name="h_std_fx723_1_1_0_0" mimeType="image/png">
+        <param key="offset" value="-43,81"/>
+      </asset>
+      <asset name="h_std_fx723_1_1_1_0" mimeType="image/png">
+        <param key="offset" value="-36,78"/>
+      </asset>
+      <asset name="h_std_fx723_1_1_2_0" mimeType="image/png">
+        <param key="offset" value="-26,76"/>
+      </asset>
+      <asset name="h_std_fx723_1_1_3_0" mimeType="image/png">
+        <param key="offset" value="-15,78"/>
+      </asset>
+      <asset name="h_std_fx723_1_1_4_0" mimeType="image/png">
+        <param key="offset" value="-2,81"/>
+      </asset>
+      <asset name="h_std_fx723_1_1_5_0" mimeType="image/png">
+        <param key="offset" value="-10,83"/>
+      </asset>
+      <asset name="h_std_fx723_1_1_6_0" mimeType="image/png">
+        <param key="offset" value="-21,90"/>
+      </asset>
+      <asset name="h_std_fx723_1_1_7_0" mimeType="image/png">
+        <param key="offset" value="-37,85"/>
+      </asset>
+  </assets>
+  <aliases/>
+</library></manifest>

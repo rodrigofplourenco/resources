@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+  <library name="bsstonino_U_unicornofigo" version="0.1">
+    <assets>
+      <asset name="h_std_ca_37336_1_0" mimeType="image/png">
+        <param key="offset" value="-9,49"/>
+      </asset>
+      <asset name="h_std_ca_37336_0_0" mimeType="image/png">
+        <param key="offset" value="-14,48"/>
+      </asset>
+      <asset name="h_std_ca_37336_7_0" mimeType="image/png">
+        <param key="offset" value="-22,46"/>
+      </asset>
+      <asset name="h_std_ca_37336_3_0" mimeType="image/png">
+        <param key="offset" value="-23,49"/>
+      </asset>
+      <asset name="h_std_ca_37336_2_0" mimeType="image/png">
+        <param key="offset" value="-23,54"/>
+      </asset>
+      <asset name="h_std_ca_37337_1_0" mimeType="image/png">
+        <param key="offset" value="-15,47"/>
+      </asset>
+      <asset name="h_std_ca_37337_0_0" mimeType="image/png">
+        <param key="offset" value="-16,44"/>
+      </asset>
+      <asset name="h_std_ca_37337_7_0" mimeType="image/png">
+        <param key="offset" value="-25,44"/>
+      </asset>
+      <asset name="h_std_ca_37337_3_0" mimeType="image/png">
+        <param key="offset" value="-26,42"/>
+      </asset>
+      <asset name="h_std_ca_37337_2_0" mimeType="image/png">
+        <param key="offset" value="-27,51"/>
+      </asset>
+      <asset name="h_lay_ca_37336_2_0" mimeType="image/png">
+        <param key="offset" value="5,24"/>
+      </asset>
+      <asset name="h_lay_ca_37337_2_0" mimeType="image/png">
+        <param key="offset" value="-2,23"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

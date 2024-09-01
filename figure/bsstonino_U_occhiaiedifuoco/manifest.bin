@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+    <library name="bsstonino_U_occhiaiedifuoco" version="0.1">
+        <assets>
+            <asset name="h_lay_ea_1602_2_0" mimeType="image/png">
+                <param key="offset" value="14,36"/>
+            </asset>
+            <asset name="h_std_ea_1602_0_0" mimeType="image/png">
+                <param key="offset" value="-37,62"/>
+            </asset>
+            <asset name="h_std_ea_1602_1_0" mimeType="image/png">
+                <param key="offset" value="-26,61"/>
+            </asset>
+            <asset name="h_std_ea_1602_2_0" mimeType="image/png">
+                <param key="offset" value="-22,64"/>
+            </asset>
+            <asset name="h_std_ea_1602_3_0" mimeType="image/png">
+                <param key="offset" value="-21,60"/>
+            </asset>
+            <asset name="h_std_ea_1602_7_0" mimeType="image/png">
+                <param key="offset" value="-18,62"/>
+            </asset>
+            <asset name="h_lay_ea_1603_2_0" mimeType="image/png">
+                <param key="offset" value="14,36"/>
+            </asset>
+            <asset name="h_std_ea_1603_0_0" mimeType="image/png">
+                <param key="offset" value="-37,62"/>
+            </asset>
+            <asset name="h_std_ea_1603_1_0" mimeType="image/png">
+                <param key="offset" value="-26,61"/>
+            </asset>
+            <asset name="h_std_ea_1603_2_0" mimeType="image/png">
+                <param key="offset" value="-22,64"/>
+            </asset>
+            <asset name="h_std_ea_1603_3_0" mimeType="image/png">
+                <param key="offset" value="-21,60"/>
+            </asset>
+            <asset name="h_std_ea_1603_7_0" mimeType="image/png">
+                <param key="offset" value="-18,62"/>
+            </asset>
+        </assets>
+    </library>
+</manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_cinturaoscura" version="0.1">
+<assets>
+<asset name="h_lay_wa_39483615_2_0" mimeType="image/png">
+<param key="offset" value="-16,16"/>
+</asset>
+<asset name="h_std_wa_39483615_0_0" mimeType="image/png">
+<param key="offset" value="-19,26"/>
+</asset>
+<asset name="h_std_wa_39483615_1_0" mimeType="image/png">
+<param key="offset" value="-23,22"/>
+</asset>
+<asset name="h_std_wa_39483615_2_0" mimeType="image/png">
+<param key="offset" value="-21,26"/>
+</asset>
+<asset name="h_std_wa_39483615_3_0" mimeType="image/png">
+<param key="offset" value="-22,23"/>
+</asset>
+<asset name="h_std_wa_39483615_7_0" mimeType="image/png">
+<param key="offset" value="-22,23"/>
+</asset>
+</assets>
+</library>
+</manifest>

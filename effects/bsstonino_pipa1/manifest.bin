@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<manifest><library id="bsstonino_pipa1" version="0.1">
+  <assets>
+    <asset name="h_std_fx683_1_1_0_0" mimeType="image/png">
+      <param key="offset" value="-31,160"/>
+    </asset>
+    <asset name="h_std_fx683_1_1_1_0" mimeType="image/png">
+      <param key="offset" value="-32,156"/>
+    </asset>
+    <asset name="h_std_fx683_1_1_2_0" mimeType="image/png">
+      <param key="offset" value="-29,150"/>
+    </asset>
+    <asset name="h_std_fx683_1_1_4_0" mimeType="image/png">
+      <param key="offset" value="26,147"/>
+    </asset>
+    <asset name="h_std_fx683_1_1_3_0" mimeType="image/png">
+      <param key="offset" value="14,145"/>
+    </asset>
+    <asset name="h_std_fx683_1_1_5_0" mimeType="image/png">
+      <param key="offset" value="33,155"/>
+    </asset>
+    <asset name="h_std_fx683_1_1_7_0" mimeType="image/png">
+      <param key="offset" value="-28,146"/>
+    </asset>
+    <asset name="h_std_fx683_1_1_6_0" mimeType="image/png">
+      <param key="offset" value="25,159"/>
+    </asset>
+  </assets>
+  <aliases/>
+</library></manifest>

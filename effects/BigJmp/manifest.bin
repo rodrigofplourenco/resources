@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<manifest><library id="BigJmp" version="0.1">
+  <assets>
+<asset mimeType="text/xml" name="fx502"/>
+  </assets>
+  <aliases/>
+</library></manifest>

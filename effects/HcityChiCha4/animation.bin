@@ -1,0 +1,234 @@
+<?xml version='1.0'?>
+<animation name="fx.558" desc="Blue Airplane">
+	<sprite id="fx558_1" member="std_fx558_1_1" directions="1" >
+		<direction id="0" dz="-1" />
+		<direction id="1" dz="-1" />
+		<direction id="2" dz="1" />
+		<direction id="3" dz="1" />
+		<direction id="4" dz="1" />
+		<direction id="5" dz="1" />
+		<direction id="6" dz="-1" />
+		<direction id="7" dz="-1" />
+	</sprite>
+	<sprite id="fx558_2" member="std_fx558_2_1" directions="1">
+		<direction id="0" dz="-1" />
+		<direction id="1" dz="1" />
+		<direction id="2" dz="2" />
+		<direction id="3" dz="2" />
+		<direction id="4" dz="2" />
+		<direction id="5" dz="-1" />
+		<direction id="6" dz="-1" />
+		<direction id="7" dz="-1" />
+	</sprite>
+	<sprite id="fx558_3" member="std_fx558_3_1" directions="1">
+		<direction id="0" dz="-1" />
+		<direction id="1" dz="1" />
+		<direction id="2" dz="2" />
+		<direction id="3" dz="2" />
+		<direction id="4" dz="2" />
+		<direction id="5" dz="-1" />
+		<direction id="6" dz="-1" />
+		<direction id="7" dz="-1" />
+	</sprite>
+
+	<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+	<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+			<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+		<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Default" />
+	</frame>
+	
+	
+
+	<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_1" action="Default" frame="1" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+	</frame>
+	<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_1" action="Default" frame="1" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+	</frame>	
+	<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_1" action="Default" frame="1" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+	</frame>
+	<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_1" action="Default" frame="1" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+	</frame>	
+	<frame repeats="10">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_1" action="Default" frame="1" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+	</frame>
+
+
+	
+
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_2" action="Default" frame="1" dy="-120"/>
+	</frame>	
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_2" action="Default" frame="2" dy="-120"/>
+	</frame>
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_3" action="Default" frame="1" dy="-120"/>
+	</frame>
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_2" action="Default" frame="1" dy="-120"/>
+	</frame>	
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_2" action="Default" frame="2" dy="-120"/>
+	</frame>
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_3" action="Default" frame="1" dy="-120"/>
+	</frame>
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_2" action="Default" frame="1" dy="-120"/>
+	</frame>	
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_2" action="Default" frame="2" dy="-120"/>
+	</frame>
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_3" action="Default" frame="1" dy="-120"/>
+	</frame>
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_2" action="Default" frame="1" dy="-120"/>
+	</frame>	
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_2" action="Default" frame="2" dy="-120"/>
+	</frame>
+	<frame repeats="2">
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx id="fx558_1" action="CarryItem" frame="0" dy="-120"/>
+		<bodypart id="leftarm" action="CarryItem" frame="0" />
+		<bodypart id="head" action="Swim" />
+		<fx id="fx558_3" action="Default" frame="1" dy="-120"/>
+	</frame>
+
+</animation>

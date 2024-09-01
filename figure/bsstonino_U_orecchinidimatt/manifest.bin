@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_orecchinidimatt" version="0.1">
+<assets>
+<asset name="h_lay_he_3948341_2_0" mimeType="image/png">
+<param key="offset" value="11,19"/>
+</asset>
+<asset name="h_std_he_3948341_0_0" mimeType="image/png">
+<param key="offset" value="-37,52"/>
+</asset>
+<asset name="h_std_he_3948341_1_0" mimeType="image/png">
+<param key="offset" value="-26,54"/>
+</asset>
+<asset name="h_std_he_3948341_2_0" mimeType="image/png">
+<param key="offset" value="-22,55"/>
+</asset>
+<asset name="h_std_he_3948341_3_0" mimeType="image/png">
+<param key="offset" value="-19,58"/>
+</asset>
+<asset name="h_std_he_3948341_7_0" mimeType="image/png">
+<param key="offset" value="-19,54"/>
+</asset>
+</assets>
+</library>
+</manifest>

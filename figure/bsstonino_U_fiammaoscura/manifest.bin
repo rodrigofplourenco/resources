@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_fiammaoscura" version="0.1">
+<assets>
+<asset name="h_std_cc_39483605_0_0" mimeType="image/png">
+<param key="offset" value="-18,90"/>
+</asset>
+<asset name="h_std_cc_39483605_1_0" mimeType="image/png">
+<param key="offset" value="-18,90"/>
+</asset>
+<asset name="h_std_cc_39483605_2_0" mimeType="image/png">
+<param key="offset" value="-18,90"/>
+</asset>
+<asset name="h_std_cc_39483605_3_0" mimeType="image/png">
+<param key="offset" value="-18,90"/>
+</asset>
+<asset name="h_std_cc_39483605_7_0" mimeType="image/png">
+<param key="offset" value="-18,90"/>
+</asset>
+</assets>
+</library>
+</manifest>

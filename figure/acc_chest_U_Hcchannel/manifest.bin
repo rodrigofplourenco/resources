@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_Hcchannel" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_5090_2_0" mimeType="image/png">
+        <param key="offset" value="-9,9"/>
+      </asset>
+      <asset name="h_lay_ca_5091_2_0" mimeType="image/png">
+        <param key="offset" value="7,18"/>
+      </asset>
+      <asset name="h_std_ca_5090_7_0" mimeType="image/png">
+        <param key="offset" value="-41,25"/>
+      </asset>
+      <asset name="h_std_ca_5090_3_0" mimeType="image/png">
+        <param key="offset" value="-18,24"/>
+      </asset>
+      <asset name="h_std_ca_5090_2_0" mimeType="image/png">
+        <param key="offset" value="-12,32"/>
+      </asset>
+      <asset name="h_std_ca_5090_1_0" mimeType="image/png">
+        <param key="offset" value="-22,23"/>
+      </asset>
+      <asset name="h_std_ca_5090_0_0" mimeType="image/png">
+        <param key="offset" value="-31,29"/>
+      </asset>
+      <asset name="h_std_ca_5091_7_0" mimeType="image/png">
+        <param key="offset" value="-40,47"/>
+      </asset>
+      <asset name="h_std_ca_5091_3_0" mimeType="image/png">
+        <param key="offset" value="-22,50"/>
+      </asset>
+      <asset name="h_std_ca_5091_2_0" mimeType="image/png">
+        <param key="offset" value="-17,48"/>
+      </asset>
+      <asset name="h_std_ca_5091_1_0" mimeType="image/png">
+        <param key="offset" value="-25,46"/>
+      </asset>
+      <asset name="h_std_ca_5091_0_0" mimeType="image/png">
+        <param key="offset" value="-34,46"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

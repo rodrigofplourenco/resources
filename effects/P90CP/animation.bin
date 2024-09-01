@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<animation name="fx.522" desc="P90 Ciudad Pixel">
+	<sprite id="fx522_1" member="std_fx522_1_1" directions="1" >
+		<direction id="0" dz="1" />
+		<direction id="1" dz="1" />
+		<direction id="2" dz="1" />
+		<direction id="3" dz="1" />
+		<direction id="4" dz="1" />
+		<direction id="5" dz="1" />
+		<direction id="6" dz="1" />
+		<direction id="7" dz="1" />
+	</sprite>
+	<frame>
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<fx action="Default" frame="0" id="fx522_1"/>
+	</frame>
+</animation>

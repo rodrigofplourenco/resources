@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+<library name="bsstonino_U_tartarughina" version="0.1">
+<assets>
+<asset name="h_lay_ha_39483643_2_0" mimeType="image/png">
+<param key="offset" value="42,65"/>
+</asset>
+<asset name="h_std_ha_39483643_0_0" mimeType="image/png">
+<param key="offset" value="-18,98"/>
+</asset>
+<asset name="h_std_ha_39483643_1_0" mimeType="image/png">
+<param key="offset" value="-19,103"/>
+</asset>
+<asset name="h_std_ha_39483643_2_0" mimeType="image/png">
+<param key="offset" value="-19,102"/>
+</asset>
+<asset name="h_std_ha_39483643_3_0" mimeType="image/png">
+<param key="offset" value="-24,103"/>
+</asset>
+<asset name="h_std_ha_39483643_7_0" mimeType="image/png">
+<param key="offset" value="-14,103"/>
+</asset>
+</assets>
+</library>
+</manifest>

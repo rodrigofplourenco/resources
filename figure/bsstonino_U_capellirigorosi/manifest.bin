@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright by Tonino - Graphic by EvaCado -->
+<manifest>
+<library name="bsstonino_U_capellirigorosi" version="0.1">
+<assets>
+<asset name="h_lay_hr_7878796_2_0" mimeType="image/png">
+<param key="offset" value="39,42"/>
+</asset>
+<asset name="h_std_hr_7878796_0_0" mimeType="image/png">
+<param key="offset" value="-6,89"/>
+</asset>
+<asset name="h_std_hr_7878796_1_0" mimeType="image/png">
+<param key="offset" value="0,92"/>
+</asset>
+<asset name="h_std_hr_7878796_2_0" mimeType="image/png">
+<param key="offset" value="-8,93"/>
+</asset>
+<asset name="h_std_hr_7878796_3_0" mimeType="image/png">
+<param key="offset" value="-15,93"/>
+</asset>
+<asset name="h_std_hr_7878796_7_0" mimeType="image/png">
+<param key="offset" value="-14,93"/>
+</asset>
+</assets>
+</library>
+</manifest>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright by Tonino - Graphic by keybe - Hobba.tv -->
+<manifest>
+<library name="bsstonino_U_zainosnorlax" version="0.1">
+<assets>
+<asset name="h_lay_ca_5654436_2_0" mimeType="image/png">
+<param key="offset" value="2,23"/>
+</asset>
+<asset name="h_std_ca_5654436_0_0" mimeType="image/png">
+<param key="offset" value="-11,46"/>
+</asset>
+<asset name="h_std_ca_5654436_1_0" mimeType="image/png">
+<param key="offset" value="-13,53"/>
+</asset>
+<asset name="h_std_ca_5654436_2_0" mimeType="image/png">
+<param key="offset" value="-10,54"/>
+</asset>
+<asset name="h_std_ca_5654436_3_0" mimeType="image/png">
+<param key="offset" value="-23,49"/>
+</asset>
+<asset name="h_std_ca_5654436_7_0" mimeType="image/png">
+<param key="offset" value="-19,46"/>
+</asset>
+</assets>
+</library>
+</manifest>

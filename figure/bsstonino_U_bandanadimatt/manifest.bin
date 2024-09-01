@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright by Tonino -->
+<manifest>
+<library name="bsstonino_U_bandanadimatt" version="0.1">
+<assets>
+<asset name="h_lay_fa_67676767_2_0" mimeType="image/png">
+<param key="offset" value="20,38"/>
+</asset>
+<asset name="h_std_fa_67676767_0_0" mimeType="image/png">
+<param key="offset" value="-17,64"/>
+</asset>
+<asset name="h_std_fa_67676767_1_0" mimeType="image/png">
+<param key="offset" value="-16,65"/>
+</asset>
+<asset name="h_std_fa_67676767_2_0" mimeType="image/png">
+<param key="offset" value="-19,65"/>
+</asset>
+<asset name="h_std_fa_67676767_3_0" mimeType="image/png">
+<param key="offset" value="-20,62"/>
+</asset>
+<asset name="h_std_fa_67676767_7_0" mimeType="image/png">
+<param key="offset" value="-19,62"/>
+</asset>
+<asset name="h_lay_fa_67676768_2_0" mimeType="image/png">
+<param key="offset" value="20,38"/>
+</asset>
+<asset name="h_std_fa_67676768_0_0" mimeType="image/png">
+<param key="offset" value="-17,64"/>
+</asset>
+<asset name="h_std_fa_67676768_1_0" mimeType="image/png">
+<param key="offset" value="-16,65"/>
+</asset>
+<asset name="h_std_fa_67676768_2_0" mimeType="image/png">
+<param key="offset" value="-19,65"/>
+</asset>
+<asset name="h_std_fa_67676768_3_0" mimeType="image/png">
+<param key="offset" value="-20,62"/>
+</asset>
+<asset name="h_std_fa_67676768_7_0" mimeType="image/png">
+<param key="offset" value="-19,62"/>
+</asset>
+</assets>
+</library>
+</manifest>

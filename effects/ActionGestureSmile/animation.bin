@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<animation name="fx.714" desc="ActionGestureSmile">
+	<frame>
+		<bodypart id="head" action="GestureSmile" frame="0" dy="0"/>
+	</frame>
+</animation>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Copyright by Tonino - Graphic and recolour by Matt - BSS Hotel Italia -->
+<manifest>
+<library name="bsstonino_U_pantalonefiammante" version="0.1">
+<assets>
+<asset name="h_lay_lg_8374329_2_0" mimeType="image/png">
+<param key="offset" value="-17,15"/>
+</asset>
+<asset name="h_sit_lg_8374329_0_0" mimeType="image/png">
+<param key="offset" value="-21,31"/>
+</asset>
+<asset name="h_sit_lg_8374329_2_0" mimeType="image/png">
+<param key="offset" value="-22,26"/>
+</asset>
+<asset name="h_std_lg_8374329_0_0" mimeType="image/png">
+<param key="offset" value="-20,28"/>
+</asset>
+<asset name="h_std_lg_8374329_1_0" mimeType="image/png">
+<param key="offset" value="-24,26"/>
+</asset>
+<asset name="h_std_lg_8374329_2_0" mimeType="image/png">
+<param key="offset" value="-21,29"/>
+</asset>
+<asset name="h_std_lg_8374329_3_0" mimeType="image/png">
+<param key="offset" value="-22,26"/>
+</asset>
+<asset name="h_std_lg_8374329_7_0" mimeType="image/png">
+<param key="offset" value="-22,24"/>
+</asset>
+<asset name="h_wlk_lg_8374329_0_0" mimeType="image/png">
+<param key="offset" value="-20,27"/>
+</asset>
+<asset name="h_wlk_lg_8374329_0_1" mimeType="image/png">
+<param key="offset" value="-13,26"/>
+</asset>
+<asset name="h_wlk_lg_8374329_0_2" mimeType="image/png">
+<param key="offset" value="-21,26"/>
+</asset>
+<asset name="h_wlk_lg_8374329_0_3" mimeType="image/png">
+<param key="offset" value="-20,25"/>
+</asset>
+<asset name="h_wlk_lg_8374329_1_0" mimeType="image/png">
+<param key="offset" value="-23,27"/>
+</asset>
+<asset name="h_wlk_lg_8374329_1_1" mimeType="image/png">
+<param key="offset" value="-17,27"/>
+</asset>
+<asset name="h_wlk_lg_8374329_1_2" mimeType="image/png">
+<param key="offset" value="-23,27"/>
+</asset>
+<asset name="h_wlk_lg_8374329_1_3" mimeType="image/png">
+<param key="offset" value="-17,27"/>
+</asset>
+<asset name="h_wlk_lg_8374329_2_0" mimeType="image/png">
+<param key="offset" value="-21,27"/>
+</asset>
+<asset name="h_wlk_lg_8374329_2_1" mimeType="image/png">
+<param key="offset" value="-23,27"/>
+</asset>
+<asset name="h_wlk_lg_8374329_2_2" mimeType="image/png">
+<param key="offset" value="-21,28"/>
+</asset>
+<asset name="h_wlk_lg_8374329_2_3" mimeType="image/png">
+<param key="offset" value="-17,26"/>
+</asset>
+<asset name="h_wlk_lg_8374329_3_0" mimeType="image/png">
+<param key="offset" value="-21,26"/>
+</asset>
+<asset name="h_wlk_lg_8374329_3_1" mimeType="image/png">
+<param key="offset" value="-22,26"/>
+</asset>
+<asset name="h_wlk_lg_8374329_3_2" mimeType="image/png">
+<param key="offset" value="-21,26"/>
+</asset>
+<asset name="h_wlk_lg_8374329_3_3" mimeType="image/png">
+<param key="offset" value="-22,26"/>
+</asset>
+<asset name="h_wlk_lg_8374329_7_0" mimeType="image/png">
+<param key="offset" value="-21,23"/>
+</asset>
+<asset name="h_wlk_lg_8374329_7_1" mimeType="image/png">
+<param key="offset" value="-21,23"/>
+</asset>
+<asset name="h_wlk_lg_8374329_7_2" mimeType="image/png">
+<param key="offset" value="-21,23"/>
+</asset>
+<asset name="h_wlk_lg_8374329_7_3" mimeType="image/png">
+<param key="offset" value="-21,23"/>
+</asset>
+<asset name="h_lay_lg_8374330_2_0" mimeType="image/png">
+<param key="offset" value="-17,15"/>
+</asset>
+<asset name="h_sit_lg_8374330_0_0" mimeType="image/png">
+<param key="offset" value="-21,32"/>
+</asset>
+<asset name="h_sit_lg_8374330_2_0" mimeType="image/png">
+<param key="offset" value="-22,26"/>
+</asset>
+<asset name="h_std_lg_8374330_0_0" mimeType="image/png">
+<param key="offset" value="-19,28"/>
+</asset>
+<asset name="h_std_lg_8374330_1_0" mimeType="image/png">
+<param key="offset" value="-23,26"/>
+</asset>
+<asset name="h_std_lg_8374330_2_0" mimeType="image/png">
+<param key="offset" value="-20,29"/>
+</asset>
+<asset name="h_std_lg_8374330_3_0" mimeType="image/png">
+<param key="offset" value="-21,26"/>
+</asset>
+<asset name="h_std_lg_8374330_7_0" mimeType="image/png">
+<param key="offset" value="-21,24"/>
+</asset>
+<asset name="h_wlk_lg_8374330_0_0" mimeType="image/png">
+<param key="offset" value="-19,27"/>
+</asset>
+<asset name="h_wlk_lg_8374330_0_1" mimeType="image/png">
+<param key="offset" value="-12,26"/>
+</asset>
+<asset name="h_wlk_lg_8374330_0_2" mimeType="image/png">
+<param key="offset" value="-19,26"/>
+</asset>
+<asset name="h_wlk_lg_8374330_0_3" mimeType="image/png">
+<param key="offset" value="-20,25"/>
+</asset>
+<asset name="h_wlk_lg_8374330_1_0" mimeType="image/png">
+<param key="offset" value="-23,27"/>
+</asset>
+<asset name="h_wlk_lg_8374330_1_1" mimeType="image/png">
+<param key="offset" value="-14,27"/>
+</asset>
+<asset name="h_wlk_lg_8374330_1_2" mimeType="image/png">
+<param key="offset" value="-22,27"/>
+</asset>
+<asset name="h_wlk_lg_8374330_1_3" mimeType="image/png">
+<param key="offset" value="-14,27"/>
+</asset>
+<asset name="h_wlk_lg_8374330_2_0" mimeType="image/png">
+<param key="offset" value="-20,27"/>
+</asset>
+<asset name="h_wlk_lg_8374330_2_1" mimeType="image/png">
+<param key="offset" value="-23,27"/>
+</asset>
+<asset name="h_wlk_lg_8374330_2_2" mimeType="image/png">
+<param key="offset" value="-21,28"/>
+</asset>
+<asset name="h_wlk_lg_8374330_2_3" mimeType="image/png">
+<param key="offset" value="-16,26"/>
+</asset>
+<asset name="h_wlk_lg_8374330_3_0" mimeType="image/png">
+<param key="offset" value="-21,26"/>
+</asset>
+<asset name="h_wlk_lg_8374330_3_1" mimeType="image/png">
+<param key="offset" value="-22,26"/>
+</asset>
+<asset name="h_wlk_lg_8374330_3_2" mimeType="image/png">
+<param key="offset" value="-21,26"/>
+</asset>
+<asset name="h_wlk_lg_8374330_3_3" mimeType="image/png">
+<param key="offset" value="-22,26"/>
+</asset>
+<asset name="h_wlk_lg_8374330_7_0" mimeType="image/png">
+<param key="offset" value="-21,23"/>
+</asset>
+<asset name="h_wlk_lg_8374330_7_1" mimeType="image/png">
+<param key="offset" value="-21,23"/>
+</asset>
+<asset name="h_wlk_lg_8374330_7_2" mimeType="image/png">
+<param key="offset" value="-21,23"/>
+</asset>
+<asset name="h_wlk_lg_8374330_7_3" mimeType="image/png">
+<param key="offset" value="-21,23"/>
+</asset>
+</assets>
+</library>
+</manifest>

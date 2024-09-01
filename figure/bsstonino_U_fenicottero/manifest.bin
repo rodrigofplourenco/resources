@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="bsstonino_U_fenicottero" version="0.1">
+    <assets>
+      <asset name="h_std_ha_32280_7_0" mimeType="image/png">
+        <param key="offset" value="-15,95"/>
+      </asset>
+      <asset name="h_std_ha_32280_3_0" mimeType="image/png">
+        <param key="offset" value="-15,95"/>
+      </asset>
+      <asset name="h_std_ha_32280_2_0" mimeType="image/png">
+        <param key="offset" value="-8,96"/>
+      </asset>
+      <asset name="h_std_ha_32280_1_0" mimeType="image/png">
+        <param key="offset" value="-7,96"/>
+      </asset>
+      <asset name="h_std_ha_32280_0_0" mimeType="image/png">
+        <param key="offset" value="-10,100"/>
+      </asset>
+      <asset name="h_spk_ha_32280_7_0" mimeType="image/png">
+        <param key="offset" value="-15,97"/>
+      </asset>
+      <asset name="h_spk_ha_32280_3_0" mimeType="image/png">
+        <param key="offset" value="-15,97"/>
+      </asset>
+      <asset name="h_spk_ha_32280_2_0" mimeType="image/png">
+        <param key="offset" value="-8,98"/>
+      </asset>
+      <asset name="h_spk_ha_32280_1_0" mimeType="image/png">
+        <param key="offset" value="-7,98"/>
+      </asset>
+      <asset name="h_spk_ha_32280_0_0" mimeType="image/png">
+        <param key="offset" value="-10,102"/>
+      </asset>
+      <asset name="h_lay_ha_32280_2_0" mimeType="image/png">
+        <param key="offset" value="35,64"/>
+      </asset>
+      <asset name="h_lsp_ha_32280_2_0" mimeType="image/png">
+        <param key="offset" value="-39,-95"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
